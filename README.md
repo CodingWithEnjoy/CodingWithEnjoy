@@ -82,11 +82,3 @@
 </div>
 
 ###
-
-<p align="left"></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/CodingWithEnjoy/CodingWithEnjoy/blob/output/snake.svg" alt="Snake animation" />
-
-###
