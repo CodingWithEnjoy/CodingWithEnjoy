@@ -85,4 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodingWithEnjoy/CodingWithEnjoy/output/snake.svg" alt="Snake Animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+
+###
