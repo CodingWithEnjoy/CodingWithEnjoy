@@ -84,3 +84,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/CodingWithEnjoy/CodingWithEnjoy/output/snake.svg" alt="Snake Animation" />
