@@ -82,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
     <a href="https://threads.net/codingwithenjoy" target="_blank">
-    <img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000" width="52" height="40" alt="Threads logo"  />
+    <img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000" width="35" height="40" alt="Threads logo"  />
   </a>
 </div>
 
